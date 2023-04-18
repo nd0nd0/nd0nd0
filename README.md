@@ -1,10 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Micheal Ndondo
 ======================================================================================================================================
 
-Iam Website designer & Video Content Producer
----------------------------------------------
-
-My goal is to go further than fulfilling the objectives and goals of my clients & partners, by pushing online content presentation experience to its max through web design and video production for well-suited results.
+I'm a Web Dev 👩🏾‍💻
 
 * 🌍  I'm based in Uganda, Kampala
 * 🖥️  See my portfolio at [michealndondo.com](http://michealndondo.com)
