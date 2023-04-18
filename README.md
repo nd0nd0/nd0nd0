@@ -3,11 +3,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 I'm a Web Dev 👩🏾‍💻
 
-* 🌍  I'm based in Uganda, Kampala
-* 🖥️  See my portfolio at [michealndondo.com](http://michealndondo.com)
+* 🌍  Based in Uganda, Kampala 🇺🇬
+* 🖥️  See my website at [michealndondo.com](http://michealndondo.com)
 * ✉️  You can contact me at [reachout@michealndondo.com](mailto:reachout@michealndondo.com)
 * 🚀  I'm currently working on [Kalaz Media](http://kalazmedia.com)
-* 🧠  I'm learning Nextjs, Remix, and Deno
+* 🧠  I'm learning React, Nextjs, & Remix
 
 ### Skills
 
